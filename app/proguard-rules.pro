@@ -1,0 +1,4 @@
+-keepattributes *Annotation*, Signature
+-keep class com.fashionstudio.aipro.core.ai.model.** { *; }
+-keep class com.fashionstudio.aipro.core.imaging.** { *; }
+-keep class com.fashionstudio.aipro.core.ui.catalog.** { *; }

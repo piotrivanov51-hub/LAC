@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="originals" path="product_dna_originals/" />
+    <files-path name="outputs" path="studio_outputs/" />
+    <cache-path name="camera_captures" path="camera/" />
+</paths>

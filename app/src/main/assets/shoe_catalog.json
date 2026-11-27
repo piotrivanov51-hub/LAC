@@ -1,0 +1,382 @@
+[
+  {
+    "id": "nike_af1",
+    "brand": "Nike",
+    "model": "Air Force 1",
+    "category": "Sneaker",
+    "style": "Streetwear",
+    "defaultMaterial": "Leather",
+    "defaultColor": "White",
+    "season": "All-Season"
+  },
+  {
+    "id": "nike_am90",
+    "brand": "Nike",
+    "model": "Air Max 90",
+    "category": "Sneaker",
+    "style": "Sport Casual",
+    "defaultMaterial": "Mesh/Leather",
+    "defaultColor": "Grey/White",
+    "season": "All-Season"
+  },
+  {
+    "id": "nike_am95",
+    "brand": "Nike",
+    "model": "Air Max 95",
+    "category": "Sneaker",
+    "style": "Urban Fashion",
+    "defaultMaterial": "Suede/Mesh",
+    "defaultColor": "Cool Grey",
+    "season": "All-Season"
+  },
+  {
+    "id": "nike_dunk_low",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "category": "Sneaker",
+    "style": "Streetwear",
+    "defaultMaterial": "Leather",
+    "defaultColor": "White/Black",
+    "season": "All-Season"
+  },
+  {
+    "id": "nike_cortez",
+    "brand": "Nike",
+    "model": "Cortez",
+    "category": "Sneaker",
+    "style": "Retro Casual",
+    "defaultMaterial": "Nylon/Suede",
+    "defaultColor": "White/Navy",
+    "season": "Spring/Summer"
+  },
+  {
+    "id": "adidas_samba",
+    "brand": "Adidas",
+    "model": "Samba",
+    "category": "Sneaker",
+    "style": "Smart Casual",
+    "defaultMaterial": "Leather/Suede",
+    "defaultColor": "White/Black",
+    "season": "All-Season"
+  },
+  {
+    "id": "adidas_gazelle",
+    "brand": "Adidas",
+    "model": "Gazelle",
+    "category": "Sneaker",
+    "style": "Casual",
+    "defaultMaterial": "Suede",
+    "defaultColor": "Navy",
+    "season": "Spring/Autumn"
+  },
+  {
+    "id": "adidas_campus",
+    "brand": "Adidas",
+    "model": "Campus",
+    "category": "Sneaker",
+    "style": "Streetwear",
+    "defaultMaterial": "Suede",
+    "defaultColor": "Grey",
+    "season": "All-Season"
+  },
+  {
+    "id": "adidas_superstar",
+    "brand": "Adidas",
+    "model": "Superstar",
+    "category": "Sneaker",
+    "style": "Casual",
+    "defaultMaterial": "Leather",
+    "defaultColor": "White/Black",
+    "season": "All-Season"
+  },
+  {
+    "id": "adidas_stansmith",
+    "brand": "Adidas",
+    "model": "Stan Smith",
+    "category": "Sneaker",
+    "style": "Minimalist",
+    "defaultMaterial": "Leather",
+    "defaultColor": "White/Green",
+    "season": "All-Season"
+  },
+  {
+    "id": "adidas_spezial",
+    "brand": "Adidas",
+    "model": "Handball Spezial",
+    "category": "Sneaker",
+    "style": "Smart Casual",
+    "defaultMaterial": "Suede",
+    "defaultColor": "Light Blue",
+    "season": "Spring/Autumn"
+  },
+  {
+    "id": "nb_530",
+    "brand": "New Balance",
+    "model": "530",
+    "category": "Sneaker",
+    "style": "Sport Casual",
+    "defaultMaterial": "Mesh",
+    "defaultColor": "White/Silver",
+    "season": "Spring/Summer"
+  },
+  {
+    "id": "nb_550",
+    "brand": "New Balance",
+    "model": "550",
+    "category": "Sneaker",
+    "style": "Streetwear",
+    "defaultMaterial": "Leather",
+    "defaultColor": "White/Grey",
+    "season": "All-Season"
+  },
+  {
+    "id": "nb_574",
+    "brand": "New Balance",
+    "model": "574",
+    "category": "Sneaker",
+    "style": "Casual",
+    "defaultMaterial": "Suede/Mesh",
+    "defaultColor": "Grey",
+    "season": "All-Season"
+  },
+  {
+    "id": "nb_9060",
+    "brand": "New Balance",
+    "model": "9060",
+    "category": "Sneaker",
+    "style": "Contemporary",
+    "defaultMaterial": "Suede/Mesh",
+    "defaultColor": "Sea Salt",
+    "season": "All-Season"
+  },
+  {
+    "id": "nb_990",
+    "brand": "New Balance",
+    "model": "990",
+    "category": "Sneaker",
+    "style": "Quiet Luxury",
+    "defaultMaterial": "Pigskin Suede",
+    "defaultColor": "Castlerock Grey",
+    "season": "All-Season"
+  },
+  {
+    "id": "nb_2002r",
+    "brand": "New Balance",
+    "model": "2002R",
+    "category": "Sneaker",
+    "style": "Urban Fashion",
+    "defaultMaterial": "Suede/Mesh",
+    "defaultColor": "Rain Cloud",
+    "season": "All-Season"
+  },
+  {
+    "id": "puma_palermo",
+    "brand": "Puma",
+    "model": "Palermo",
+    "category": "Sneaker",
+    "style": "Casual",
+    "defaultMaterial": "Suede",
+    "defaultColor": "Beige",
+    "season": "Spring/Autumn"
+  },
+  {
+    "id": "puma_suede",
+    "brand": "Puma",
+    "model": "Suede",
+    "category": "Sneaker",
+    "style": "Streetwear",
+    "defaultMaterial": "Suede",
+    "defaultColor": "Black/White",
+    "season": "All-Season"
+  },
+  {
+    "id": "puma_speedcat",
+    "brand": "Puma",
+    "model": "Speedcat",
+    "category": "Sneaker",
+    "style": "Contemporary",
+    "defaultMaterial": "Suede",
+    "defaultColor": "Black",
+    "season": "Spring/Autumn"
+  },
+  {
+    "id": "puma_rsx",
+    "brand": "Puma",
+    "model": "RS-X",
+    "category": "Sneaker",
+    "style": "Sport Casual",
+    "defaultMaterial": "Mesh/Synthetic",
+    "defaultColor": "White/Multi",
+    "season": "All-Season"
+  },
+  {
+    "id": "asics_gel",
+    "brand": "ASICS",
+    "model": "GEL-Kayano 14",
+    "category": "Sneaker",
+    "style": "Sport Casual",
+    "defaultMaterial": "Mesh",
+    "defaultColor": "Cream/Metallic",
+    "season": "All-Season"
+  },
+  {
+    "id": "reebok_clubc",
+    "brand": "Reebok",
+    "model": "Club C 85",
+    "category": "Sneaker",
+    "style": "Minimalist",
+    "defaultMaterial": "Leather",
+    "defaultColor": "Chalk",
+    "season": "All-Season"
+  },
+  {
+    "id": "converse_chuck70",
+    "brand": "Converse",
+    "model": "Chuck 70",
+    "category": "Casual",
+    "style": "Casual",
+    "defaultMaterial": "Canvas",
+    "defaultColor": "Parchment",
+    "season": "Spring/Summer"
+  },
+  {
+    "id": "vans_oldskool",
+    "brand": "Vans",
+    "model": "Old Skool",
+    "category": "Casual",
+    "style": "Streetwear",
+    "defaultMaterial": "Canvas/Suede",
+    "defaultColor": "Black/White",
+    "season": "All-Season"
+  },
+  {
+    "id": "on_cloud",
+    "brand": "On",
+    "model": "Cloud 5",
+    "category": "Sneaker",
+    "style": "Sport Casual",
+    "defaultMaterial": "Engineered Mesh",
+    "defaultColor": "Glacier White",
+    "season": "All-Season"
+  },
+  {
+    "id": "salomon_xt6",
+    "brand": "Salomon",
+    "model": "XT-6",
+    "category": "Sneaker",
+    "style": "Urban Fashion",
+    "defaultMaterial": "Synthetic/Mesh",
+    "defaultColor": "Vanilla Ice",
+    "season": "All-Season"
+  },
+  {
+    "id": "hoka_clifton",
+    "brand": "HOKA",
+    "model": "Clifton 9",
+    "category": "Sneaker",
+    "style": "Sport Casual",
+    "defaultMaterial": "Mesh",
+    "defaultColor": "White/Nimbus",
+    "season": "All-Season"
+  },
+  {
+    "id": "classic_oxford",
+    "brand": "Classic",
+    "model": "Oxford",
+    "category": "Classic",
+    "style": "Business Formal",
+    "defaultMaterial": "Calfskin Leather",
+    "defaultColor": "Black",
+    "season": "All-Season"
+  },
+  {
+    "id": "classic_derby",
+    "brand": "Classic",
+    "model": "Derby",
+    "category": "Classic",
+    "style": "Business Casual",
+    "defaultMaterial": "Leather",
+    "defaultColor": "Dark Brown",
+    "season": "All-Season"
+  },
+  {
+    "id": "classic_brogues",
+    "brand": "Classic",
+    "model": "Brogues",
+    "category": "Classic",
+    "style": "Italian Classic",
+    "defaultMaterial": "Burnished Leather",
+    "defaultColor": "Tan",
+    "season": "Spring/Autumn"
+  },
+  {
+    "id": "classic_loafers",
+    "brand": "Classic",
+    "model": "Loafers",
+    "category": "Classic",
+    "style": "Old Money",
+    "defaultMaterial": "Suede",
+    "defaultColor": "Espresso",
+    "season": "Spring/Summer"
+  },
+  {
+    "id": "classic_penny_loafers",
+    "brand": "Classic",
+    "model": "Penny Loafers",
+    "category": "Classic",
+    "style": "Quiet Luxury",
+    "defaultMaterial": "Box Calf",
+    "defaultColor": "Burgundy",
+    "season": "Spring/Autumn"
+  },
+  {
+    "id": "classic_monkstrap",
+    "brand": "Classic",
+    "model": "Monk Strap",
+    "category": "Classic",
+    "style": "Business Formal",
+    "defaultMaterial": "Leather",
+    "defaultColor": "Black",
+    "season": "All-Season"
+  },
+  {
+    "id": "classic_chelsea",
+    "brand": "Classic",
+    "model": "Chelsea Boots",
+    "category": "Boot",
+    "style": "Smart Casual",
+    "defaultMaterial": "Suede/Leather",
+    "defaultColor": "Dark Brown",
+    "season": "Autumn/Winter"
+  },
+  {
+    "id": "classic_desert",
+    "brand": "Classic",
+    "model": "Desert Boots",
+    "category": "Boot",
+    "style": "Smart Casual",
+    "defaultMaterial": "Suede",
+    "defaultColor": "Sand",
+    "season": "Spring/Autumn"
+  },
+  {
+    "id": "classic_chukka",
+    "brand": "Classic",
+    "model": "Chukka Boots",
+    "category": "Boot",
+    "style": "Casual",
+    "defaultMaterial": "Leather",
+    "defaultColor": "Cognac",
+    "season": "Autumn/Winter"
+  },
+  {
+    "id": "classic_min_sneaker",
+    "brand": "Classic",
+    "model": "Minimalist Leather Sneakers",
+    "category": "Classic",
+    "style": "Scandinavian Minimalism",
+    "defaultMaterial": "Full-Grain Leather",
+    "defaultColor": "Pure White",
+    "season": "All-Season"
+  }
+]

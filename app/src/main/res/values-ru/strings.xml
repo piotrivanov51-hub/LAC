@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fashion Studio AI PRO</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_projects">Проекты</string>
+    <string name="nav_batch">Пакет</string>
+    <string name="nav_brand">Бренд</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="dna_tagline">Генерируем всё вокруг товара. Никогда не перепридумываем сам товар.</string>
+</resources>
